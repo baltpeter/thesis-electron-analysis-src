@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "@baltpeter/ba-en": "^99.7.0",
+        "@octokit/plugin-retry": "^3.0.1",
+        "@octokit/plugin-throttling": "^3.2.0",
+        "@octokit/rest": "^17.2.1",
+        "asar": "^3.0.3",
+        "chalk": "^4.0.0",
+        "detective": "^5.2.0",
+        "fs-extra": "^9.0.0",
+        "glob": "^7.1.6",
+        "js-yaml": "^3.13.1",
+        "node-7z": "^2.1.1",
+        "node-downloader-helper": "^1.0.12",
+        "nodegit": "^0.26.5",
+        "pg-promise": "^10.5.1",
+        "read-package-json-fast": "^1.1.3"
+    }
+}
